@@ -8,3 +8,6 @@ I used three.js for WebGL programming.
 Part1 is where the basic environment mapping and shadows take place.
 Part2 is where I add rain effects/lightning effects/sound to the given scene.
 Enjoy!
+
+Here is the demo for people who want to save their time.
+https://www.youtube.com/watch?v=Y9bks1_Z6FE&feature=youtu.be
