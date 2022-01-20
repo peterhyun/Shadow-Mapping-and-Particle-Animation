@@ -1,5 +1,5 @@
 # Shadow-Mapping-and-Particle-Animation
-UBC CPSC 314-Computer Graphics Final Assignment: Implementing Shadow Mapping, Normal Mapping, and Environmental Mapping + Creative License.
+CPSC 314-Computer Graphics Final Assignment: Implementing Shadow Mapping, Normal Mapping, and Environmental Mapping + Creative License.
 
 How to view)
 Download this repository and open the html file with the browser you're using for results! (Firefox highly recommended)
